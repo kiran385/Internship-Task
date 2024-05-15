@@ -1,0 +1,15 @@
+body div .container{
+    display: none;
+}
+
+body div div h1{
+    font-weight: bold;
+}
+
+body div table{
+    border: 5px solid black;
+}
+
+body div table tr{
+    border: 2px solid black;
+}
